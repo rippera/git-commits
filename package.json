@@ -1,0 +1,20 @@
+{
+  "name": "git-commits",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/rippera/git-commits.git",
+  "author": "rippera <mikehil.mezurnishvili10b@geolab.edu.ge>",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts":{
+    "cz":"./node_modules/.bin/cz"
+  },
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  }
+}
