@@ -6,7 +6,7 @@
 npm i cz-conventional-changelog --save-dev
 yarn cz-conventional-changelog --dev
 ```
-
+# Instruction
 ```bash
 git add .
 yarn/npm cz and fallow instructions
