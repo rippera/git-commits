@@ -1,4 +1,11 @@
-# git-commits
+# Git Conventional Changelog
+
+# Instalation
+
+```bash
+npm i cz-conventional-changelog --save-dev
+yarn cz-conventional-changelog --dev
+```
 
 ```bash
 git add .
@@ -6,7 +13,7 @@ yarn/npm cz and fallow instructions
 git push <branch_name>
 ```
 
-# config
+# Config
 
 ```bash
     "config": {
