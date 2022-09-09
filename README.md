@@ -1,6 +1,6 @@
 # Git Conventional Changelog
 
-# Instalation
+# Installation
 
 ```bash
 npm i cz-conventional-changelog --save-dev
