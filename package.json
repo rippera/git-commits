@@ -14,15 +14,7 @@
   },
   "config": {
     "commitizen": {
-      "path": "./node_modules/cz-conventional-changelog",
-      "disableScopeLowerCase": false,
-        "disableSubjectLowerCase": false,
-        "maxHeaderWidth": 50,
-        "maxLineWidth": 50,
-        "defaultScope": "APP",
-        "defaultSubject": "Comment from PC",
-        "defaultBody": "This is default body",
-        "defaultIssues": "Project issue"
+      "path": "./node_modules/cz-conventional-changelog"
     }
   }
 }
