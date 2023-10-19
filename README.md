@@ -4,7 +4,7 @@
 
 ```bash
 npm i cz-conventional-changelog --save-dev
-yarn cz-conventional-changelog --dev
+yarn add cz-conventional-changelog --dev
 ```
 # Instruction
 ```bash
